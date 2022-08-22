@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "71467205984",
+    "project_id": "butomy-authentication",
+    "storage_bucket": "butomy-authentication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71467205984:android:6d07f2537d746e99228a05",
+        "android_client_info": {
+          "package_name": "com.example.butomy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "71467205984-73r4vqnjvkkbqinrq626ro2arh94d697.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpl07iVZ70Pnwv_D_pGEFxSm7TJhtdNAk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "71467205984-73r4vqnjvkkbqinrq626ro2arh94d697.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
